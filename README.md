@@ -1,6 +1,8 @@
 # Brainly-LockPick 🔑
 Unlocks all brainly answers and bypasses one answer per day limit. Gives infinite free answers & unlocks textbooks 🔐∞
 
+<p><b>Note:</b> refresh page on the first time you use this to see changes take place. 🔄</p>
+
 <h3>Steps for use: </h3>
 <ol style="margin-bottom:10px;">
 <li>Install this userscript.</li><br>
